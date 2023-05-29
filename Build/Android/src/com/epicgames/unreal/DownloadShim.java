@@ -1,10 +1,10 @@
 package com.epicgames.unreal;
 
-import com.YourCompany.ChimeraProject.OBBDownloaderService;
-import com.YourCompany.ChimeraProject.DownloaderActivity;
+import com.rockus.Chimera.OBBDownloaderService;
+import com.rockus.Chimera.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.YourCompany.ChimeraProject.OBBData;
+import com.rockus.Chimera.OBBData;
 
 
 public class DownloadShim

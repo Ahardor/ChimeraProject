@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.ChimeraProject;
+package com.rockus.Chimera;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 
