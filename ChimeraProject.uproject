@@ -5,13 +5,6 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
-		},
-		{
 			"Name": "Bridge",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
@@ -21,11 +14,215 @@
 			]
 		},
 		{
-			"Name": "NiagaraFluids",
-			"Enabled": true
+			"Name": "EnvironmentQueryEditor",
+			"Enabled": false
 		},
 		{
-			"Name": "GeometryScripting",
+			"Name": "AISupport",
+			"Enabled": false
+		},
+		{
+			"Name": "SequencerAnimTools",
+			"Enabled": false
+		},
+		{
+			"Name": "AnimationData",
+			"Enabled": false
+		},
+		{
+			"Name": "ControlRigSpline",
+			"Enabled": false
+		},
+		{
+			"Name": "IKRig",
+			"Enabled": false
+		},
+		{
+			"Name": "ControlRig",
+			"Enabled": false
+		},
+		{
+			"Name": "AnimationModifierLibrary",
+			"Enabled": false
+		},
+		{
+			"Name": "AnimationSharing",
+			"Enabled": false
+		},
+		{
+			"Name": "AudioCapture",
+			"Enabled": false
+		},
+		{
+			"Name": "Metasound",
+			"Enabled": false
+		},
+		{
+			"Name": "ResonanceAudio",
+			"Enabled": false
+		},
+		{
+			"Name": "SoundFields",
+			"Enabled": false
+		},
+		{
+			"Name": "Synthesis",
+			"Enabled": false
+		},
+		{
+			"Name": "BlendSpaceMotionAnalysis",
+			"Enabled": false
+		},
+		{
+			"Name": "CameraShakePreviewer",
+			"Enabled": false
+		},
+		{
+			"Name": "OodleNetwork",
+			"Enabled": false
+		},
+		{
+			"Name": "TextureFormatOodle",
+			"Enabled": false
+		},
+		{
+			"Name": "OpenImageDenoise",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosEditor",
+			"Enabled": false
+		},
+		{
+			"Name": "FacialAnimation",
+			"Enabled": false
+		},
+		{
+			"Name": "MeshPainting",
+			"Enabled": false
+		},
+		{
+			"Name": "SkeletalReduction",
+			"Enabled": false
+		},
+		{
+			"Name": "InterchangeEditor",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Mac"
+			]
+		},
+		{
+			"Name": "InterchangeTests",
+			"Enabled": false
+		},
+		{
+			"Name": "GLTFExporter",
+			"Enabled": false
+		},
+		{
+			"Name": "DatasmithContent",
+			"Enabled": false
+		},
+		{
+			"Name": "VariantManagerContent",
+			"Enabled": false
+		},
+		{
+			"Name": "AppleImageUtils",
+			"Enabled": false
+		},
+		{
+			"Name": "CharacterAI",
+			"Enabled": false
+		},
+		{
+			"Name": "AlembicImporter",
+			"Enabled": false
+		},
+		{
+			"Name": "SpeedTreeImporter",
+			"Enabled": false
+		},
+		{
+			"Name": "AppleMoviePlayer",
+			"Enabled": false
+		},
+		{
+			"Name": "UdpMessaging",
+			"Enabled": false
+		},
+		{
+			"Name": "TcpMessaging",
+			"Enabled": false
+		},
+		{
+			"Name": "MacGraphicsSwitching",
+			"Enabled": false
+		},
+		{
+			"Name": "OnlineSubsystemIOS",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"IOS",
+				"TVOS"
+			]
+		},
+		{
+			"Name": "ChaosClothEditor",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosCloth",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosNiagara",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosSolverPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "CLionSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "CodeLiteSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "KDevelopSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "XCodeSourceCodeAccess",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Mac"
+			]
+		},
+		{
+			"Name": "CableComponent",
+			"Enabled": false
+		},
+		{
+			"Name": "GeometryCache",
+			"Enabled": false
+		},
+		{
+			"Name": "LevelSequenceEditor",
+			"Enabled": false
+		},
+		{
+			"Name": "GameplayCameras",
+			"Enabled": false
+		},
+		{
+			"Name": "NiagaraFluids",
 			"Enabled": true
 		}
 	]
